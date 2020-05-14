@@ -33,6 +33,7 @@ click the three dots in the right and click `rename`
     1. Paste this url `https://raw.githubusercontent.com/rsethur/MLOps/master/models/risk-model/dataset/german_credit_data.csv`
     2. __Important__ Change dataset name to `credit_dataset`
     3. If a `CORS error` shows up, open the page and check all boxes in the `Allowed methods` drop down. 
+    4. Select `Column headers` to be `Use headers from the first file`.
     4. Follow the onscreen instructions by clicking `Next` till completion
     
 ## Section 4: Run the Build Release pipeline
